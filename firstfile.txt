@@ -1,5 +1,10 @@
 This is the first file. 
 
+    git status (just to see what changed)
+    git add . (stages all changed files)
+    git commit -m "update file with new changes" (saves the changes with a message)
+    git push (sends changes to GitHub)
+
 More practice will be helpful. 
 
 Try to understand the Git commands.
