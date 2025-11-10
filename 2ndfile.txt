@@ -1,0 +1,14 @@
+This is the second file for practicing GitHub. 
+
+Here are some useful commands used when removing the duplicate file: 
+    rm firstfile
+    git add firstfile
+    git commit -m "Remove duplicate file"
+    git push
+
+For a new file locally, the steps to upload it to GitHub are:
+    git add <filename>
+    git commit -m "Add <filename>
+    git push
+    
+More practice is still needed.
